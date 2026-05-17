@@ -11,4 +11,4 @@ The model classifies images into:
 - Python
 - PyTorch
 - Torchvision
-- PIL (Pillow)
+- PIL (Pillow) 
